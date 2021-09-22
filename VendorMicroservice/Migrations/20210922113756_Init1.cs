@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace VendorMicroservice.Migrations
 {
-    public partial class InitModel : Migration
+    public partial class Init1 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

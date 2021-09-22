@@ -10,8 +10,8 @@ using VendorMicroservice.Data;
 namespace VendorMicroservice.Migrations
 {
     [DbContext(typeof(VendorDbContext))]
-    [Migration("20210922021910_InitModel")]
-    partial class InitModel
+    [Migration("20210922113756_Init1")]
+    partial class Init1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
